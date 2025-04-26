@@ -1,0 +1,41 @@
+﻿<Page x:Class="TLC.main_p"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:TLC"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="main_p">
+
+    <Grid Background="LightGray">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <StackPanel>
+            <Button Click="Image_Select" Width="50" Height="50" Margin="0,10,0,0">
+                <Image Source="Default.png" Stretch="UniformToFill" Name="img"></Image>
+            </Button>
+            <TextBlock>ModName</TextBlock>
+            <TextBox x:Name="modName"></TextBox>
+            <TextBlock>ModDisplayName</TextBlock>
+            <TextBox x:Name="modDisplayName"></TextBox>
+            <TextBlock>ModAuthor</TextBlock>
+            <TextBox x:Name="modAuthor"></TextBox>
+            <TextBlock>Description</TextBlock>
+            <TextBox x:Name="Description"></TextBox>
+            <Button Click="Save" Height="20" Margin="5">Save</Button>
+        </StackPanel>
+        <StackPanel Grid.Column="1">
+            <TextBlock></TextBlock>
+            <TextBlock></TextBlock>
+            <TextBlock></TextBlock>
+            <TextBlock></TextBlock>
+            <TextBlock></TextBlock>
+            <TextBlock></TextBlock>
+            <TextBlock></TextBlock>
+            <TextBlock></TextBlock>
+        </StackPanel>
+    </Grid>
+</Page>

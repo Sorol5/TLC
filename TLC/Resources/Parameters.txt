@@ -1,0 +1,12 @@
+Item.damage = ;0;Урон,int
+Item.DamageType = ;DamageClass.Melee;Тип урона,string
+Item.width = ;0;Ширина предмета,int
+Item.height = ;0;Выстота предмета,int
+Item.useTime = ;0;Время использования,int
+Item.useAnimation = ;0;Время анимации,int
+Item.useStyle = ;ItemUseStyleID.Swing;Стиль удара,string
+Item.knockBack = ;0;Отбрасывание,int
+Item.value = ;Item.buyPrice(silver: 1);Стоимость,string,int
+Item.rare = ;ItemRarityID.Blue;Редкость,string
+Item.UseSound = ;SoundID.Item1;Используемый звук,string
+Item.autoReuse = ;true;Автоатака,bool

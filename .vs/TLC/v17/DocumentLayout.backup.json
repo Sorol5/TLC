@@ -1,0 +1,311 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chmoc\\source\\repos\\TLC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64AB2221-36D8-46D8-9323-7AEEF3C0FC30}|TLC\\TLC.csproj|C:\\Users\\chmoc\\source\\repos\\TLC\\tlc\\project.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AB2221-36D8-46D8-9323-7AEEF3C0FC30}|TLC\\TLC.csproj|solutionrelative:tlc\\project.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AB2221-36D8-46D8-9323-7AEEF3C0FC30}|TLC\\TLC.csproj|c:\\users\\chmoc\\source\\repos\\tlc\\tlc\\project.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64AB2221-36D8-46D8-9323-7AEEF3C0FC30}|TLC\\TLC.csproj|solutionrelative:tlc\\project.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AB2221-36D8-46D8-9323-7AEEF3C0FC30}|TLC\\TLC.csproj|C:\\Users\\chmoc\\source\\repos\\TLC\\tlc\\parameters.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AB2221-36D8-46D8-9323-7AEEF3C0FC30}|TLC\\TLC.csproj|solutionrelative:tlc\\parameters.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AB2221-36D8-46D8-9323-7AEEF3C0FC30}|TLC\\TLC.csproj|C:\\Users\\chmoc\\source\\repos\\TLC\\tlc\\main_p.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AB2221-36D8-46D8-9323-7AEEF3C0FC30}|TLC\\TLC.csproj|solutionrelative:tlc\\main_p.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AB2221-36D8-46D8-9323-7AEEF3C0FC30}|TLC\\TLC.csproj|C:\\Users\\chmoc\\source\\repos\\TLC\\tlc\\elements_p.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64AB2221-36D8-46D8-9323-7AEEF3C0FC30}|TLC\\TLC.csproj|solutionrelative:tlc\\elements_p.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AB2221-36D8-46D8-9323-7AEEF3C0FC30}|TLC\\TLC.csproj|C:\\Users\\chmoc\\source\\repos\\TLC\\tlc\\elements_p.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AB2221-36D8-46D8-9323-7AEEF3C0FC30}|TLC\\TLC.csproj|solutionrelative:tlc\\elements_p.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AB2221-36D8-46D8-9323-7AEEF3C0FC30}|TLC\\TLC.csproj|C:\\Users\\chmoc\\source\\repos\\TLC\\tlc\\element_p.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64AB2221-36D8-46D8-9323-7AEEF3C0FC30}|TLC\\TLC.csproj|solutionrelative:tlc\\element_p.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AB2221-36D8-46D8-9323-7AEEF3C0FC30}|TLC\\TLC.csproj|C:\\Users\\chmoc\\source\\repos\\TLC\\tlc\\items_p.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AB2221-36D8-46D8-9323-7AEEF3C0FC30}|TLC\\TLC.csproj|solutionrelative:tlc\\items_p.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AB2221-36D8-46D8-9323-7AEEF3C0FC30}|TLC\\TLC.csproj|C:\\Users\\chmoc\\source\\repos\\TLC\\tlc\\create_project.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AB2221-36D8-46D8-9323-7AEEF3C0FC30}|TLC\\TLC.csproj|solutionrelative:tlc\\create_project.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AB2221-36D8-46D8-9323-7AEEF3C0FC30}|TLC\\TLC.csproj|c:\\users\\chmoc\\source\\repos\\tlc\\tlc\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AB2221-36D8-46D8-9323-7AEEF3C0FC30}|TLC\\TLC.csproj|solutionrelative:tlc\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA531121-3B70-4083-B80B-CECB3FED0E67}|TLCBibliary\\TLCBibliary.csproj|C:\\Users\\chmoc\\source\\repos\\TLC\\tlcbibliary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA531121-3B70-4083-B80B-CECB3FED0E67}|TLCBibliary\\TLCBibliary.csproj|solutionrelative:tlcbibliary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AB2221-36D8-46D8-9323-7AEEF3C0FC30}|TLC\\TLC.csproj|C:\\Users\\chmoc\\source\\repos\\TLC\\tlc\\parameters.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64AB2221-36D8-46D8-9323-7AEEF3C0FC30}|TLC\\TLC.csproj|solutionrelative:tlc\\parameters.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AB2221-36D8-46D8-9323-7AEEF3C0FC30}|TLC\\TLC.csproj|C:\\Users\\chmoc\\source\\repos\\TLC\\tlc\\items_p.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64AB2221-36D8-46D8-9323-7AEEF3C0FC30}|TLC\\TLC.csproj|solutionrelative:tlc\\items_p.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AB2221-36D8-46D8-9323-7AEEF3C0FC30}|TLC\\TLC.csproj|C:\\Users\\chmoc\\source\\repos\\TLC\\tlc\\element_p.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AB2221-36D8-46D8-9323-7AEEF3C0FC30}|TLC\\TLC.csproj|solutionrelative:tlc\\element_p.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chmoc\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mods\\123\\Content\\Items\\basicSword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|TLC||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AB2221-36D8-46D8-9323-7AEEF3C0FC30}|TLC\\TLC.csproj|C:\\Users\\chmoc\\source\\repos\\TLC\\tlc\\main_p.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64AB2221-36D8-46D8-9323-7AEEF3C0FC30}|TLC\\TLC.csproj|solutionrelative:tlc\\main_p.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AB2221-36D8-46D8-9323-7AEEF3C0FC30}|TLC\\TLC.csproj|C:\\Users\\chmoc\\source\\repos\\TLC\\tlc\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64AB2221-36D8-46D8-9323-7AEEF3C0FC30}|TLC\\TLC.csproj|solutionrelative:tlc\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\chmoc\\source\\repos\\TLC\\TLCBibliary\\Class1.cs",
+              "RelativeDocumentMoniker": "TLCBibliary\\Class1.cs",
+              "ToolTip": "C:\\Users\\chmoc\\source\\repos\\TLC\\TLCBibliary\\Class1.cs",
+              "RelativeToolTip": "TLCBibliary\\Class1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwDEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:48:46.603Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Project.xaml",
+              "DocumentMoniker": "C:\\Users\\chmoc\\source\\repos\\TLC\\TLC\\Project.xaml",
+              "RelativeDocumentMoniker": "TLC\\Project.xaml",
+              "ToolTip": "C:\\Users\\chmoc\\source\\repos\\TLC\\TLC\\Project.xaml",
+              "RelativeToolTip": "TLC\\Project.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-25T14:38:31.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Project.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\chmoc\\source\\repos\\TLC\\TLC\\Project.xaml.cs",
+              "RelativeDocumentMoniker": "TLC\\Project.xaml.cs",
+              "ToolTip": "C:\\Users\\chmoc\\source\\repos\\TLC\\TLC\\Project.xaml.cs",
+              "RelativeToolTip": "TLC\\Project.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAjwCIAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:56:04.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\chmoc\\source\\repos\\TLC\\TLC\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TLC\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\chmoc\\source\\repos\\TLC\\TLC\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TLC\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAC0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:58:18.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main_p.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\chmoc\\source\\repos\\TLC\\TLC\\main_p.xaml.cs",
+              "RelativeDocumentMoniker": "TLC\\main_p.xaml.cs",
+              "ToolTip": "C:\\Users\\chmoc\\source\\repos\\TLC\\TLC\\main_p.xaml.cs",
+              "RelativeToolTip": "TLC\\main_p.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:46:14.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Parameters.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\chmoc\\source\\repos\\TLC\\TLC\\Parameters.xaml.cs",
+              "RelativeDocumentMoniker": "TLC\\Parameters.xaml.cs",
+              "ToolTip": "C:\\Users\\chmoc\\source\\repos\\TLC\\TLC\\Parameters.xaml.cs",
+              "RelativeToolTip": "TLC\\Parameters.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:07:22.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "items_p.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\chmoc\\source\\repos\\TLC\\TLC\\items_p.xaml.cs",
+              "RelativeDocumentMoniker": "TLC\\items_p.xaml.cs",
+              "ToolTip": "C:\\Users\\chmoc\\source\\repos\\TLC\\TLC\\items_p.xaml.cs",
+              "RelativeToolTip": "TLC\\items_p.xaml.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAcwE8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:27:58.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "elements_p.xaml",
+              "DocumentMoniker": "C:\\Users\\chmoc\\source\\repos\\TLC\\TLC\\elements_p.xaml",
+              "RelativeDocumentMoniker": "TLC\\elements_p.xaml",
+              "ToolTip": "C:\\Users\\chmoc\\source\\repos\\TLC\\TLC\\elements_p.xaml",
+              "RelativeToolTip": "TLC\\elements_p.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-20T15:59:30.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create_project.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\chmoc\\source\\repos\\TLC\\TLC\\Create_project.xaml.cs",
+              "RelativeDocumentMoniker": "TLC\\Create_project.xaml.cs",
+              "ToolTip": "C:\\Users\\chmoc\\source\\repos\\TLC\\TLC\\Create_project.xaml.cs",
+              "RelativeToolTip": "TLC\\Create_project.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:43:21.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "element_p.xaml",
+              "DocumentMoniker": "C:\\Users\\chmoc\\source\\repos\\TLC\\TLC\\element_p.xaml",
+              "RelativeDocumentMoniker": "TLC\\element_p.xaml",
+              "ToolTip": "C:\\Users\\chmoc\\source\\repos\\TLC\\TLC\\element_p.xaml",
+              "RelativeToolTip": "TLC\\element_p.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-24T15:48:11.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "elements_p.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\chmoc\\source\\repos\\TLC\\TLC\\elements_p.xaml.cs",
+              "RelativeDocumentMoniker": "TLC\\elements_p.xaml.cs",
+              "ToolTip": "C:\\Users\\chmoc\\source\\repos\\TLC\\TLC\\elements_p.xaml.cs",
+              "RelativeToolTip": "TLC\\elements_p.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:11:26.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "items_p.xaml",
+              "DocumentMoniker": "C:\\Users\\chmoc\\source\\repos\\TLC\\TLC\\items_p.xaml",
+              "RelativeDocumentMoniker": "TLC\\items_p.xaml",
+              "ToolTip": "C:\\Users\\chmoc\\source\\repos\\TLC\\TLC\\items_p.xaml",
+              "RelativeToolTip": "TLC\\items_p.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-20T16:21:51.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Parameters.xaml",
+              "DocumentMoniker": "C:\\Users\\chmoc\\source\\repos\\TLC\\TLC\\Parameters.xaml",
+              "RelativeDocumentMoniker": "TLC\\Parameters.xaml",
+              "ToolTip": "C:\\Users\\chmoc\\source\\repos\\TLC\\TLC\\Parameters.xaml",
+              "RelativeToolTip": "TLC\\Parameters.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-28T17:55:53.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "element_p.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\chmoc\\source\\repos\\TLC\\TLC\\element_p.xaml.cs",
+              "RelativeDocumentMoniker": "TLC\\element_p.xaml.cs",
+              "ToolTip": "C:\\Users\\chmoc\\source\\repos\\TLC\\TLC\\element_p.xaml.cs",
+              "RelativeToolTip": "TLC\\element_p.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T13:02:45.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TLC",
+              "DocumentMoniker": "C:\\Users\\chmoc\\source\\repos\\TLC\\TLC\\TLC.csproj",
+              "RelativeDocumentMoniker": "TLC\\TLC.csproj",
+              "ToolTip": "C:\\Users\\chmoc\\source\\repos\\TLC\\TLC\\TLC.csproj",
+              "RelativeToolTip": "TLC\\TLC.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-30T15:39:12.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "basicSword.cs",
+              "DocumentMoniker": "C:\\Users\\chmoc\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mods\\123\\Content\\Items\\basicSword.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mods\\123\\Content\\Items\\basicSword.cs",
+              "ToolTip": "C:\\Users\\chmoc\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mods\\123\\Content\\Items\\basicSword.cs",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mods\\123\\Content\\Items\\basicSword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T19:14:30.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "main_p.xaml",
+              "DocumentMoniker": "C:\\Users\\chmoc\\source\\repos\\TLC\\TLC\\main_p.xaml",
+              "RelativeDocumentMoniker": "TLC\\main_p.xaml",
+              "ToolTip": "C:\\Users\\chmoc\\source\\repos\\TLC\\TLC\\main_p.xaml",
+              "RelativeToolTip": "TLC\\main_p.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-24T15:54:40.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\chmoc\\source\\repos\\TLC\\TLC\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TLC\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\chmoc\\source\\repos\\TLC\\TLC\\MainWindow.xaml",
+              "RelativeToolTip": "TLC\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-19T14:34:28.041Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

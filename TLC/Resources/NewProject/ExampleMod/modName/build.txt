@@ -1,0 +1,3 @@
+displayName = modDisplayName
+author = modAuthor
+version = 0.1

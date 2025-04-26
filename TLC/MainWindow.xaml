@@ -1,0 +1,24 @@
+﻿<Window x:Class="TLC.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TLC"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="40"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Row="1" Grid.Column="0">
+            <Button x:Name="create_project" Click="Create_project" Content="New" Width="40" Height="40"/>
+            <Button x:Name="open_project" Click="Open_project" Content="Open" Width="40" Height="40"/>
+        </StackPanel>
+        <Frame x:Name="Pages" Grid.Row="1" Grid.Column="1" Background="LightGray" Content="Создай проект" NavigationUIVisibility="Hidden"></Frame>
+    </Grid>
+</Window>
